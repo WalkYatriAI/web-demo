@@ -1,0 +1,17 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  #root {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 769px) {
+  #root {
+    padding: 2rem;
+  }
+}
