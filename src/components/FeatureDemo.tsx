@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FeaturesSectionWithHoverEffects } from "@/components/ui/feature-section-with-hover-effects";
 
 function FeatureDemo() {
